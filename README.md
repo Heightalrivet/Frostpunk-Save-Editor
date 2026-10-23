@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Frostpunk-Save-Editor` · Updated: 2026-10-07
+`Frostpunk-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `frostpunk` `save-editor` `survival` `city-builder` `strategy`
